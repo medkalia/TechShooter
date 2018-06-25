@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 756e3bd104daede42a1676eab0760314, type: 3}
+  m_Name: RoBearSoundPoolGroup
+  m_EditorClassIdentifier: 
+  Tag: 4
+  soundPools:
+  - {fileID: 11400000, guid: b1260ecb52ea11f43b16e9ed17adbb1a, type: 2}
+  - {fileID: 11400000, guid: 62699984790c44d4cbf8557307dade15, type: 2}
+  - {fileID: 11400000, guid: a73d464734b2ddc4bb8d67a7e3573fbc, type: 2}
+  - {fileID: 11400000, guid: 51368575bbd8e194f9a0695a48da32d5, type: 2}
+  - {fileID: 11400000, guid: f31b461e4a217454799a1150664a1f37, type: 2}
+  - {fileID: 11400000, guid: 935033d77732d444a913a788e8da9208, type: 2}
+  - {fileID: 11400000, guid: 3263490efc6021444a7b0e85b1c2c097, type: 2}
+  - {fileID: 11400000, guid: c090daa145d1f7644a775f31b4ebaed9, type: 2}

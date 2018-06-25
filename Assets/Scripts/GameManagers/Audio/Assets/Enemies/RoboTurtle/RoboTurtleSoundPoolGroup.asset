@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 756e3bd104daede42a1676eab0760314, type: 3}
+  m_Name: RoboTurtleSoundPoolGroup
+  m_EditorClassIdentifier: 
+  Tag: 2
+  soundPools:
+  - {fileID: 11400000, guid: 3608cb482a42aec43bb41fbae0b22d36, type: 2}
+  - {fileID: 11400000, guid: 4b18e9e055239e44db863403ad25b7fb, type: 2}
+  - {fileID: 11400000, guid: 7574ebccd04e97443a48ca32f451838a, type: 2}
+  - {fileID: 11400000, guid: 8f73635cc78bd65488453a4ce4405d1b, type: 2}
+  - {fileID: 11400000, guid: d9d52978c82f1274a9366ae7ffe3be51, type: 2}

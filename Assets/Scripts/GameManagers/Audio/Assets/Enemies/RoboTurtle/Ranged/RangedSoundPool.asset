@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 60359333871152942a74b050e90a7239, type: 3}
+  m_Name: RangedSoundPool
+  m_EditorClassIdentifier: 
+  Tag: 8
+  volume: 1
+  pitch: 1
+  loop: 0
+  playOnAwake: 0
+  spatialBlend: 1
+  rolloffMode: 1
+  minDistance: 0.5
+  maxDistance: 17
+  audioMixerGroup: 2
+  sounds:
+  - {fileID: 11400000, guid: d43f78e193e32f44199ba6da861238c1, type: 2}
+  - {fileID: 11400000, guid: 2457db9ab589ca5409cd2c6994428172, type: 2}
+  - {fileID: 11400000, guid: f8c2d40109b784f49b32c4e0f33f64fb, type: 2}
+  - {fileID: 11400000, guid: b3b7eee45c5b6e64c9543a79170f1765, type: 2}
+  - {fileID: 11400000, guid: 23767b49f7b14c3469cef849b858d4cf, type: 2}

@@ -1,0 +1,730 @@
+fileFormatVersion: 2
+guid: b06b46125c1a9344385bfc7eee985c0f
+timeCreated: 1513951246
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Robot03_0
+    21300002: Robot03_1
+    21300004: Robot03_2
+    21300006: Robot03_3
+    21300008: Robot03_4
+    21300010: Robot03_5
+    21300012: Robot03_6
+    21300014: Robot03_7
+    21300016: Robot03_8
+    21300018: Robot03_9
+    21300020: Robot03_10
+    21300022: Robot03_11
+    21300024: Robot03_12
+    21300026: Robot03_13
+    21300028: Robot03_14
+    21300030: Robot03_15
+    21300032: Robot03_16
+    21300034: Robot03_17
+    21300036: Robot03_18
+    21300038: Robot03_19
+    21300040: Robot03_20
+    21300042: Robot03_21
+    21300044: Robot03_22
+    21300046: Robot03_23
+    21300048: Robot03_24
+    21300050: Robot03_25
+    21300052: Robot03_26
+    21300054: Robot03_27
+    21300056: Robot03_28
+    21300058: Robot03_29
+    21300060: Robot03_30
+    21300062: Robot03_31
+    21300064: Robot03_32
+    21300066: Robot03_33
+    21300068: Robot03_34
+    21300070: Robot03_35
+    21300072: Robot03_36
+    21300074: Robot03_37
+    21300076: Robot03_38
+    21300078: Robot03_39
+    21300080: RoboTurtle_0
+    21300082: RoboTurtle_1
+    21300084: RoboTurtle_2
+    21300086: RoboTurtle_3
+    21300088: RoboTurtle_4
+    21300090: RoboTurtle_5
+    21300092: RoboTurtle_6
+    21300094: RoboTurtle_7
+    21300096: RoboTurtle_8
+    21300098: RoboTurtle_9
+    21300100: RoboTurtle_10
+    21300102: RoboTurtle_11
+    21300104: RoboTurtle_12
+    21300106: RoboTurtle_13
+    21300108: RoboTurtle_14
+    21300110: RoboTurtle_15
+    21300112: RoboTurtle_16
+    21300114: RoboTurtle_17
+    21300116: RoboTurtle_18
+    21300118: RoboTurtle_19
+    21300120: RoboTurtle_20
+    21300122: RoboTurtle_21
+    21300124: RoboTurtle_22
+    21300126: RoboTurtle_23
+    21300128: RoboTurtle_24
+    21300130: RoboTurtle_25
+    21300132: RoboTurtle_26
+    21300134: RoboTurtle_27
+    21300136: RoboTurtle_28
+    21300138: RoboTurtle_29
+    21300140: RoboTurtle_30
+    21300142: RoboTurtle_31
+    21300144: RoboTurtle_32
+    21300146: RoboTurtle_33
+    21300148: RoboTurtle_34
+    21300150: RoboTurtle_35
+    21300152: RoboTurtle_36
+    21300154: RoboTurtle_37
+    21300156: RoboTurtle_38
+    21300158: RoboTurtle_39
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 35
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RoboTurtle_0
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 222
+        width: 24
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RoboTurtle_1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 222
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RoboTurtle_2
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 222
+        width: 24
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RoboTurtle_3
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 222
+        width: 26
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RoboTurtle_4
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 222
+        width: 27
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RoboTurtle_5
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 222
+        width: 26
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RoboTurtle_6
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 181
+        width: 25
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RoboTurtle_7
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 181
+        width: 24
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RoboTurtle_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 181
+        width: 24
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RoboTurtle_9
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 181
+        width: 25
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RoboTurtle_10
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 181
+        width: 25
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RoboTurtle_11
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 181
+        width: 25
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RoboTurtle_12
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 181
+        width: 25
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RoboTurtle_13
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 181
+        width: 26
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RoboTurtle_14
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 142
+        width: 28
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RoboTurtle_15
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 142
+        width: 26
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RoboTurtle_16
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 142
+        width: 29
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RoboTurtle_17
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 142
+        width: 26
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RoboTurtle_18
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 142
+        width: 27
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RoboTurtle_19
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 142
+        width: 26
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RoboTurtle_20
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 103
+        width: 26
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RoboTurtle_21
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 103
+        width: 28
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RoboTurtle_22
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 103
+        width: 35
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RoboTurtle_23
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 103
+        width: 32
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RoboTurtle_24
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 103
+        width: 25
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RoboTurtle_25
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 84
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RoboTurtle_26
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 88
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RoboTurtle_27
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 87
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RoboTurtle_28
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 87
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RoboTurtle_29
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 47
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RoboTurtle_30
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 31
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RoboTurtle_31
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 31
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RoboTurtle_32
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 31
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RoboTurtle_33
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 31
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RoboTurtle_34
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 31
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RoboTurtle_35
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 31
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RoboTurtle_36
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 8
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RoboTurtle_37
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 8
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RoboTurtle_38
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 5
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RoboTurtle_39
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 9
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

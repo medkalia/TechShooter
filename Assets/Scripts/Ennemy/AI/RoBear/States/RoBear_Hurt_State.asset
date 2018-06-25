@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 339e1c2b28c70da45aa506e9bb0af732, type: 3}
+  m_Name: RoBear_Hurt_State
+  m_EditorClassIdentifier: 
+  onEnterAction: {fileID: 11400000, guid: 51c9d96564e6a764fb4fa06356772a19, type: 2}
+  actions: []
+  onExitAction: {fileID: 0}
+  transitions:
+  - decision: {fileID: 11400000, guid: eebc78321935c114eb31456b3809f52e, type: 2}
+    trueState: {fileID: 11400000, guid: d745c6a75a5d0504b84ccb9297263208, type: 2}
+    falseState: {fileID: 11400000, guid: 16c8c977b5638e34582bd1866ff2f6a1, type: 2}
+  - decision: {fileID: 11400000, guid: 0f3c5d8c43d5d684098f4edb4c53d504, type: 2}
+    trueState: {fileID: 11400000, guid: 1279ac41f15613f419fbf97458aaf5d8, type: 2}
+    falseState: {fileID: 11400000, guid: 16c8c977b5638e34582bd1866ff2f6a1, type: 2}
+  sceneGizmoColor: {r: 0.9448277, g: 1, b: 0, a: 1}

@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Audio_Screen_Override
+  m_Controller: {fileID: 9100000, guid: 9b146447dffd8c24aa1c4398793ecdc8, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 0ecf21b83f46b964791228ea0532984b, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: bf18eaf54e06fe04d8f6b63d1976dd5b, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: fa5f8411d6326b1489733dc4273a1cad, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 0de8c04ed44c59d42ba85d64276a786d, type: 2}

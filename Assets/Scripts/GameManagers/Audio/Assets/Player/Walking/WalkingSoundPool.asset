@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 60359333871152942a74b050e90a7239, type: 3}
+  m_Name: WalkingSoundPool
+  m_EditorClassIdentifier: 
+  Tag: 6
+  volume: 0.5
+  pitch: 1
+  loop: 0
+  playOnAwake: 0
+  spatialBlend: 0
+  rolloffMode: 1
+  minDistance: 0.5
+  maxDistance: 17
+  audioMixerGroup: 2
+  sounds:
+  - {fileID: 11400000, guid: 048a508392e03a841b9926a3a7a1347b, type: 2}
+  - {fileID: 11400000, guid: 1493991a8aa7789499e58ed169fd0e24, type: 2}
+  - {fileID: 11400000, guid: 8a0bd0b16e40abc4d83d6c2ecb3c984c, type: 2}

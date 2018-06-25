@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1320746742226550}
+  m_IsPrefabParent: 1
+--- !u!1 &1320746742226550
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4628496952669436}
+  - component: {fileID: 114776991204459542}
+  m_Layer: 0
+  m_Name: LevelGenerator
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4628496952669436
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1320746742226550}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114776991204459542
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1320746742226550}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a7b42ff3c8897ba4cb6ef0cb40ac8962, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  map: {fileID: 2800000, guid: 995a846e823fba44cb36726dc9ded317, type: 3}
+  colorMappings:
+  - color: {r: 1, g: 0, b: 0.3529412, a: 1}
+    prefab: {fileID: 1995269101989598, guid: fcd0c284763c3844aa33b3aaa328dde4, type: 2}
+  - color: {r: 1, g: 0.4117647, b: 0, a: 1}
+    prefab: {fileID: 1225477269074004, guid: daec14130bed5cd4d8240479c689b5a0, type: 2}
+  - color: {r: 0.67058825, g: 0.27450982, b: 0, a: 1}
+    prefab: {fileID: 1439683978416372, guid: 75a611b9e4257574a9e2d8addc9107a4, type: 2}
+  - color: {r: 0.31764707, g: 0.12941177, b: 0, a: 1}
+    prefab: {fileID: 1254373457790188, guid: a060eb4f78a03344c98d74e8cc80fb8a, type: 2}
+  - color: {r: 0.13333334, g: 0.05490196, b: 0, a: 1}
+    prefab: {fileID: 1897548215457614, guid: b8d53a8091ce44e45b98ecea29b7729d, type: 2}
+  - color: {r: 0.007843138, g: 1, b: 0.3882353, a: 1}
+    prefab: {fileID: 1348638172559580, guid: 7d6854d743857554f9c727022dce4300, type: 2}
+  - color: {r: 0.9490196, g: 0.39215687, b: 0.39215687, a: 1}
+    prefab: {fileID: 1346977804393432, guid: 1c7d89e27e12fef488abb7c958ba6aba, type: 2}
+  - color: {r: 0.96862745, g: 0.14901961, b: 0.14901961, a: 1}
+    prefab: {fileID: 1274099624959318, guid: 139c3636b8427cf498f87016cc97d9c9, type: 2}
+  - color: {r: 0.9843137, g: 0, b: 0, a: 1}
+    prefab: {fileID: 1688673174309372, guid: 42e2aa34cce5173409ff2e3ea17b7493, type: 2}
+  - color: {r: 0.015686275, g: 0, b: 1, a: 1}
+    prefab: {fileID: 1347504013789522, guid: c493cdb7794244646b01d52714511bf2, type: 2}

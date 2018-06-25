@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 756e3bd104daede42a1676eab0760314, type: 3}
+  m_Name: LevelBossSoundPoolGroup
+  m_EditorClassIdentifier: 
+  Tag: 10
+  soundPools:
+  - {fileID: 11400000, guid: c62ebd0bb63024a44b6414198f4b7102, type: 2}

@@ -1,0 +1,187 @@
+fileFormatVersion: 2
+guid: ace7576aed59934419a63c8d50e3b83c
+timeCreated: 1514318396
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Bar5 Treated_0
+    21300002: Bar5 Treated_1
+    21300004: Bar5 Treated_2
+    21300006: Bar5 Treated_3
+    21300008: Bar5 Treated_4
+    21300010: Bar5 Treated_5
+    21300012: Bar5 Treated_6
+    21300014: Bar5 Treated_7
+    21300016: Bar5 Treated_8
+    21300018: Bar5 Treated_9
+    21300020: Bar5 Treated_10
+    21300022: Bar5 Treated_11
+    21300024: Bar5 Treated_12
+    21300026: Bar5 Treated_13
+    21300028: Bar5 Treated_14
+    21300030: Bar5 Treated_15
+    21300032: Bar5 Treated_16
+    21300034: Bar5 Treated_17
+    21300036: Bar5 Treated_18
+    21300038: Bar5 Treated_19
+    21300040: Bar5 Treated_20
+    21300042: Bar5 Treated_21
+    21300044: Bar5 Treated_22
+    21300046: Bar5 Treated_23
+    21300048: Bar5 Treated_24
+    21300050: Bar5 Treated_25
+    21300052: Bar5 Treated_26
+    21300054: Bar5 Treated_27
+    21300056: Bar5 Treated_28
+    21300058: Bar5 Treated_29
+    21300060: Bar5 Treated_30
+    21300062: Bar5 Treated_31
+    21300064: Bar5 Treated_32
+    21300066: Bar5 Treated_33
+    21300068: Bar5 Treated_34
+    21300070: Bar5 Treated_35
+    21300072: Bar5 Treated_36
+    21300074: Bar5 Treated_37
+    21300076: Bar5 Treated_38
+    21300078: Bar5 Treated_39
+    21300080: Bar5 Treated_40
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bar5 Treated_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 195
+        width: 624
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bar5 Treated_1
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 153
+        width: 442
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bar5 Treated_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 77
+        width: 555
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bar5 Treated_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 27
+        width: 555
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
